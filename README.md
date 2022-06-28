@@ -70,3 +70,5 @@ something.
 ## FAQ
 
 See the [frequently asked questions](https://github.com/xenia-project/xenia/wiki/FAQ) page.
+
+Attempting to re-enable keyboard passthrough for dev builds of games found on dev-kits
